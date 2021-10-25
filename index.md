@@ -40,4 +40,4 @@ about:this is the second version of SCP Labels Addon
 
 ### Support or Contact
 
-Having trouble with Pages? Check out or [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to ask me something? feel free to join my [discord server](https://discord.gg/XMV7szVwHA)i will waiting for you guys see you!
