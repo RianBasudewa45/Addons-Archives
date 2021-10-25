@@ -29,6 +29,15 @@ about:this is is the first version of the addon and many people still want it
 
 ![scp-labels-addon-v12_1-520x245](https://user-images.githubusercontent.com/93080889/138660486-d0a11cf5-e8e2-4ed1-adb3-bcc0c583ba2f.png)
 
+### Downloads
+#### [MediFire](https://www.mediafire.com/download/sfkqqr35o7dm2ek)
+
+## SCP Labels Addon V2
+about:this is the second version of SCP Labels Addon 
+
+### Downloads
+#### [MediaFire](https://www.mediafire.com/download/lc59xc13ciyqjlh)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out or [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
